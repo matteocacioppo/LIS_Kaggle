@@ -41,8 +41,8 @@ We explored:
 
 - **Feature extractors**:  
   - RGB → ResNet50 → 2048-dim  
-  - Radar → Custom CNN → 256-dim  
-- **Fusion**: `[RGB | Radar] → 2304-dim`
+  - Radar → Custom CNN → 96-dim  
+- **Fusion**: `[RGB | Radar] → 2144-dim`
 - **Temporal model**: 2-layer **LSTM**
 - **Classifier**: Fully connected + softmax (126 classes)
 
@@ -54,13 +54,3 @@ We explored:
 - Sequence padding: Enabled  
 - Packed sequences: Used to handle variable-length input  
 - Framework: PyTorch
-
-## 📈 Results
-
-| Metric     | Score |
-|------------|-------|
-| Accuracy   | XX.X% | *(replace with actual value)*
-| Best Epoch | XX    |
-
-## 📁 Folder Structure
-
