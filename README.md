@@ -70,7 +70,7 @@ We explored:
 - Explore transformer-based temporal models  
 
 ## ✍️ Authors
-[Matteo Cacioppo – MSc Physics & ML enthusiast  
+Matteo Cacioppo – MSc Physics & ML enthusiast  
 This work was submitted as part of a Kaggle competition on multimodal learning.
 
 ## 🏁 License
