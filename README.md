@@ -1,2 +1,2 @@
 # LIS_Kaggle
-Questo progetto utilizza dati video e radar per classificare 126 gesti della Lingua dei Segni Italiana (LIS), combinando estrazione di feature tramite ResNet e CNN custom, fusione multimodale e classificazione sequenziale con un modello LSTM.
+This project uses video and radar data to classify 126 Italian Sign Language (LIS) gestures, combining feature extraction via ResNet and custom CNN, multimodal fusion, and sequential classification with an LSTM model.
