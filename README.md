@@ -46,6 +46,13 @@ We explored:
 - **Temporal model**: 2-layer **LSTM**
 - **Classifier**: Fully connected + softmax (126 classes)
 
+## 📈 Results
+
+| Metric     | Score |
+|------------|-------|
+| Accuracy   | 90.30% |
+| Best Epoch | 116    |
+
 ## 📊 Training
 
 - Optimizer: Adam  
