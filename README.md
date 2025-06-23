@@ -53,6 +53,8 @@ We explored:
 | Accuracy   | 90.30% |
 | Best Epoch | 116    |
 
+![Training and validation loss](loss.png)
+
 ## 📁 Folder Structure
 
 ├── features_RGB/ # Extracted RGB features (train/val/test)
