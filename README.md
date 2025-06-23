@@ -64,3 +64,16 @@ We explored:
   ```python
   length = min(length, 30)
 
+  ## 📌 Future Improvements
+- Implement attention-based fusion  
+- Add end-to-end training (joint feature extraction + LSTM)  
+- Explore transformer-based temporal models  
+
+## ✍️ Authors
+[Matteo Cacioppo – MSc Physics & ML enthusiast  
+This work was submitted as part of a Kaggle competition on multimodal learning.
+
+## 🏁 License
+This project is licensed under the MIT License.
+
+
