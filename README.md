@@ -69,8 +69,6 @@ We explored:
 
 ├── train.py # Training loop
 
-├── inference.py # Inference script (optional)
-
 └── README.md # This file
 
 ## 📊 Training
