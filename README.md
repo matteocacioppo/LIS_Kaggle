@@ -9,7 +9,7 @@ The goal is to recognize LIS gestures performed by different individuals using s
 
 ## 🧠 Approach
 
-We use a **late fusion strategy**:
+I use a **late fusion strategy**:
 - RGB and radar data are processed independently to extract features.
 - Features from both modalities are concatenated.
 - A temporal model (LSTM) captures gesture dynamics across time.
@@ -22,7 +22,7 @@ The dataset consists of:
 - Radar video signals aligned with RGB.
 - Each sample belongs to one of 126 gesture classes.
 
-We preprocess the data as follows:
+I preprocess the data as follows:
 - Extract **up to 30 frames** from each RGB and radar video. If a video has fewer than 30 frames, we **pad** with zeros.
 - Extract features from each frame using:
   - **ResNet50** for RGB
@@ -91,7 +91,8 @@ We explored:
   ```python
   length = min(length, 30)
 
-  ## 📌 Future Improvements
+
+## 📌 Future Improvements
 - Implement attention-based fusion  
 - Add end-to-end training (joint feature extraction + LSTM)  
 - Explore transformer-based temporal models  
