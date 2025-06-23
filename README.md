@@ -54,3 +54,13 @@ We explored:
 - Sequence padding: Enabled  
 - Packed sequences: Used to handle variable-length input  
 - Framework: PyTorch
+
+## 🧹 Preprocessing Notes
+
+- Maximum frames per video: **30**
+- Padded with zeros if fewer than 30 frames
+- JSON dictionary maps `SAMPLE_x` → original number of frames
+- During training, lengths are capped at 30:  
+  ```python
+  length = min(length, 30)
+
