@@ -56,13 +56,21 @@ We explored:
 ## 📁 Folder Structure
 
 ├── features_RGB/ # Extracted RGB features (train/val/test)
+
 ├── features_radar/ # Extracted radar features (train/val/test)
+
 ├── lengths_train.json # Lengths for train samples
+
 ├── lengths_val.json # Lengths for validation samples
+
 ├── model/ # LSTM model definition
+
 ├── dataset.py # Dataset and dataloader
+
 ├── train.py # Training loop
+
 ├── inference.py # Inference script (optional)
+
 └── README.md # This file
 
 ## 📊 Training
