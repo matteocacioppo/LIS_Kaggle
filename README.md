@@ -101,6 +101,38 @@ We explored:
 Matteo Cacioppo – MSc Physics & ML enthusiast  
 This work was submitted as part of a Kaggle competition on multimodal learning.
 
+@inproceedings{mineo2024sign,
+  title={Sign Language Recognition for Patient-Doctor Communication: A Multimedia/Multimodal Dataset},
+  author={Mineo, Raffaele and Caligiore, Gaia and Spampinato, Concetto and Fontana, Sabina and Palazzo, Simone and Ragonese, Egidio},
+  booktitle={2024 IEEE 8th Forum on Research and Technologies for Society and Industry Innovation (RTSI)},
+  pages={202--207},
+  year={2024},
+  organization={IEEE}
+}
+
+@inproceedings{caligiore-etal-2024-multisource,
+  title = {Multisource Approaches to Italian Sign Language ({LIS}) Recognition: Insights from the MultiMedaLIS Dataset},
+  author = {Caligiore, Gaia and Mineo, Raffaele and Spampinato, Concetto and Ragonese, Egidio and Palazzo, Simone and Fontana, Sabina},
+  editor = {DellOrletta, Felice and Lenci, Alessandro and Montemagni, Simonetta and Sprugnoli, Rachele},
+  booktitle = {Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)},
+  month = dec,
+  year = {2024},
+  address = {Pisa, Italy},
+  publisher = {CEUR Workshop Proceedings},
+  url = {https://aclanthology.org/2024.clicit-1.17/},
+  pages = {132--140},
+  ISBN = {979-12-210-7060-6}
+}
+
+@inproceedings{mineo2025radar,  
+  title={Radar-Based Imaging for Sign Language Recognition in Medical Communication},  
+  author={Mineo, Raffaele and Caligiore, Gaia and Proietto Salanitri, Federica and Kavasidis, Isaak and Polikovsky, Senya and Fontana, Sabina and Ragonese, Egidio and Spampinato, Concetto and Palazzo, Simone},  
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},  
+  year={2025},  
+  organization={Springer}  
+}
+
+
 ## 🏁 License
 This project is licensed under the MIT License.
 
