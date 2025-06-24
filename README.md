@@ -101,6 +101,9 @@ We explored:
 Matteo Cacioppo – MSc Physics & ML enthusiast  
 This work was submitted as part of a Kaggle competition on multimodal learning.
 
+## 🏁 License
+This project is licensed under the MIT License.
+
 ## 📚 Citation
 
 ```bibtex
@@ -135,8 +138,5 @@ This work was submitted as part of a Kaggle competition on multimodal learning.
   organization={Springer}  
 }
 
-
-## 🏁 License
-This project is licensed under the MIT License.
 
 
